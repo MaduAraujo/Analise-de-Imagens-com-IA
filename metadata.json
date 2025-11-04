@@ -1,0 +1,5 @@
+{
+  "name": "Análise de Imagens com IA",
+  "description": "Uma aplicação educacional que permite aos usuários fazer upload de uma imagem, identificar objetos nela usando IA e, em seguida, isolar um objeto específico para entender a segmentação de imagem.",
+  "requestFramePermissions": []
+}
